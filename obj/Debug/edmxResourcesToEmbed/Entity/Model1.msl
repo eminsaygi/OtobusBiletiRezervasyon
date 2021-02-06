@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="OtobusBiletRezarvasyonModelStoreContainer" CdmEntityContainer="OtobusBiletRezarvasyonEntities">
+    <EntitySetMapping Name="tblBilet">
+      <EntityTypeMapping TypeName="OtobusBiletRezarvasyonModel.tblBilet">
+        <MappingFragment StoreEntitySet="tblBilet">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TC" ColumnName="TC" />
+          <ScalarProperty Name="Adi" ColumnName="Adi" />
+          <ScalarProperty Name="Soyadi" ColumnName="Soyadi" />
+          <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+          <ScalarProperty Name="BiletNo" ColumnName="BiletNo" />
+          <ScalarProperty Name="Guzergah" ColumnName="Guzergah" />
+          <ScalarProperty Name="SeferTarihi" ColumnName="SeferTarihi" />
+          <ScalarProperty Name="SeferSaati" ColumnName="SeferSaati" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
