@@ -10,7 +10,7 @@ MVC mimari deseni kullanılmıştır.<br>
 <b>Kullanım kılavuzu ve Bilgi : https://github.com/eminsaygi/OtobusBiletiRezervasyon/blob/main/SETUP/Dokümantasyon_180542017.pdf<br>
 <b>Kurulum Yardımı ve Tanıtım : https://youtu.be/d-_QBKvZX00
   
-<b>Tez Analiz Sistemi içinden Görüntüler</b>
+<b>Otobüs Bileti Rezervasyon Sistemi içinden Görüntüler</b>
 
 <b>Giriş</b>
 
